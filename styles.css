@@ -3,80 +3,76 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-  }
-  
-  header {
-    background-color: #333;
+}
+
+header {
+    background-color: #040562;
     color: #fff;
     text-align: center;
     padding: 1em;
-  }
-  
-  nav {
-    background-color: #444;
+}
+
+nav {
+    background-color: #3737f3;
     color: #fff;
     text-align: center;
     padding: 0.5em;
-  }
-  
-  nav a {
+}
+
+nav a {
     color: #fff;
     text-decoration: none;
     padding: 0.5em 1em;
-  }
-  
-  section {
+}
+
+section {
     padding: 1em;
-  }
-  
-  form {
+}
+
+form {
     max-width: 600px;
     margin: 0 auto;
     background-color: #fff;
     padding: 1em;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  label {
+}
+
+label {
     display: block;
     margin-bottom: 0.5em;
-  }
-  
-  input,
-  select {
+}
+
+input,
+select {
     width: 100%;
     padding: 0.5em;
     margin-bottom: 1em;
     box-sizing: border-box;
-  }
-  
-  button {
+}
+
+button {
     background-color: #333;
     color: #fff;
     padding: 0.5em 1em;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-  }
-  
-  /* Centralizar o título do formulário */
-  section h2 {
-    text-align: center;
-  }
-  /* Adicione isso ao seu arquivo styles.css */
+}
 
-/* Estilo para as imagens */
+section h2 {
+    text-align: center;
+}
+
 section img {
     width: 400px;
     height: 200px;
-    margin-right: 10px; /* Espaçamento entre as imagens, ajuste conforme necessário */
-    border-radius: 8px; /* Borda arredondada para as imagens */
-    object-fit: cover; /* Garante que a imagem mantenha suas proporções */
-   
-  }
-  #centralizar{
+    margin-right: 10px;
+    border-radius: 8px;
+    object-fit: cover;
+
+}
+
+#centralizar {
     text-align: center;
-  }
-  
-  
+}
